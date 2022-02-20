@@ -18,8 +18,8 @@ Python).
  
 //Penjelasan 
 
--Semua class yang sudah dispesifikasikan di soal saya masukan kedalam file yang terpisah, terdapat file Memory, Product, Hardware, dan Main/Index
--Semua class selain main/index memiliki metode get, set, konstruktor dan destruktor semua ini dibutuhkan untuk memanggil semua variabel yang di buat
--Semua class memiliki hubungan inheritance : class Memory memiliki induk atau parent yang bernama class Hardware, dan Hardware memiliki parent bernama class Product 
+- Semua class yang sudah dispesifikasikan di soal saya masukan kedalam file yang terpisah, terdapat file Memory, Product, Hardware, dan Main/Index
+- Semua class selain main/index memiliki metode get, set, konstruktor dan destruktor semua ini dibutuhkan untuk memanggil semua variabel yang di buat
+- Semua class memiliki hubungan inheritance : class Memory memiliki induk atau parent yang bernama class Hardware, dan Hardware memiliki parent bernama class Product 
  dan secara tidak langsung class Memory memiliki grand Parent yaitu class Product
 
