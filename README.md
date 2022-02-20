@@ -1,6 +1,6 @@
 # LATIHAN2DPBO2022
 
-## Saya Muhamad Firmansyah mengerjakan Latihan 1 DPBO dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+## Saya Muhamad Firmansyah mengerjakan Latihan 2 DPBO dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 Sebuah repository untuk mengunggah kodingan dari latihan dpbo 2022
 Ada 2 latihan yang pertama yaitu 
@@ -10,9 +10,9 @@ Diberikan kelas-kelas berikut:
 Memory : frequency, memorySize, supportsCuda
 Product : price, idProduct
 Hardware : brand, model
-- Setiap kelas dalam file terpisah.
-- Semua kelas memiliki metode get set.
-- Buatlah kelas Main yang menampilkan data tersebut.
+ - Setiap kelas dalam file terpisah.
+ - Semua kelas memiliki metode get set.
+ - Buatlah kelas Main yang menampilkan data tersebut.
 2. Kerjakan nomor 1 menggunakan bahasa lainnya (C++, PHP, dan
 Python).
  
